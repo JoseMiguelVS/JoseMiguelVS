@@ -16,3 +16,8 @@ Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero s
 [![](https://visitcount.itsvg.in/api?id=JoseMiguelVS&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### :zap: Actividad reciente
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
