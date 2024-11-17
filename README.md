@@ -18,6 +18,6 @@ Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero s
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### :zap: Actividad reciente
-<!-- START_SECTION:activity -->
+<!--RECENT_ACTIVITY:start-->
 
-<!-- END_SECTION:activity -->
+<!--RECENT_ACTIVITY:last_update-->
