@@ -21,11 +21,11 @@ Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero s
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
 2. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
-3. ⬆️ Pushed 2 commit(s) to [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
-4. 📔 Created new repository [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
-5. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/EjerciciosAPIs](https://github.com/JoseMiguelVS/EjerciciosAPIs)<br>
+3. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
+4. ⬆️ Pushed 2 commit(s) to [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
+5. 📔 Created new repository [JoseMiguelVS/hackathon](https://github.com/JoseMiguelVS/hackathon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 10th, 2024, 12:37:04 PM
+Last Updated: Tuesday, December 10th, 2024, 1:15:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
