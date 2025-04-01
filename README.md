@@ -19,13 +19,13 @@ Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero s
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
-2. 💪 Opened PR [#3](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/3) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
-3. 📔 Created new repository [JoseMiguelVS/CRUD_Firebase](https://github.com/JoseMiguelVS/CRUD_Firebase)<br>
-4. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/SIIUT](https://github.com/JoseMiguelVS/SIIUT)<br>
-5. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/SIIUT](https://github.com/JoseMiguelVS/SIIUT)<br>
+1. 💪 Opened PR [#6](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/6) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+2. ⬆️ Pushed 1 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+3. 💪 Opened PR [#5](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/5) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+4. ⬆️ Pushed 1 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+5. ⬆️ Pushed 8 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 1st, 2025, 1:40:53 AM
+Last Updated: Tuesday, April 1st, 2025, 12:37:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
