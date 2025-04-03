@@ -19,13 +19,13 @@ Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero s
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JoseMiguelVS/componentesFlutter](https://github.com/JoseMiguelVS/componentesFlutter)<br>
-2. 💪 Opened PR [#8](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/8) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
-3. ⬆️ Pushed 1 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
-4. 💪 Opened PR [#7](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/7) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
-5. ⬆️ Pushed 1 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+1. ⬆️ Pushed 1 commit(s) to [JoseMiguelVS/componentesFlutter](https://github.com/JoseMiguelVS/componentesFlutter)<br>
+2. 📔 Created new repository [JoseMiguelVS/componentesFlutter](https://github.com/JoseMiguelVS/componentesFlutter)<br>
+3. 💪 Opened PR [#8](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/8) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+4. ⬆️ Pushed 1 commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
+5. 💪 Opened PR [#7](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase/pull/7) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SEIM_Canary_Firebase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 3rd, 2025, 12:36:33 PM
+Last Updated: Thursday, April 3rd, 2025, 1:07:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
