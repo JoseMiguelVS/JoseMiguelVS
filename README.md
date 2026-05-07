@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudio en la UTT<br>T.S.U en Desarrollo de Software Multiplataforma<br>Quiero ser Backend <br>Mejorando como líder de proyectos
+📌 T.S.U en Desarrollo de Software Multiplataforma <br>
+📌 Ingenieria en Desarrollo y Gestion de Software <br>
+📌 Líder de proyectos / equipos
 
 
 ## 🌐 Socials:
