@@ -21,13 +21,13 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/team-portfolio](https://github.com/JoseMiguelVS/team-portfolio)<br>
-2. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/team-portfolio](https://github.com/JoseMiguelVS/team-portfolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/team-portfolio](https://github.com/JoseMiguelVS/team-portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/team-portfolio](https://github.com/JoseMiguelVS/team-portfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/personal-portafolio](https://github.com/JoseMiguelVS/personal-portafolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/personal-portafolio](https://github.com/JoseMiguelVS/personal-portafolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/personal-portafolio](https://github.com/JoseMiguelVS/personal-portafolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/personal-portafolio](https://github.com/JoseMiguelVS/personal-portafolio)<br>
 5. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/team-portfolio](https://github.com/JoseMiguelVS/team-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 24th, 2026, 2:29:45 PM
+Last Updated: Thursday, June 25th, 2026, 3:34:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
