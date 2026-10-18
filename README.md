@@ -21,13 +21,13 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
-2. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
+1. 💪 Opened PR [#11](undefined) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
+2. ❌ Closed PR [#8](undefined) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
 3. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
 4. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
 5. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 17th, 2026, 3:03:06 PM
+Last Updated: Sunday, October 18th, 2026, 3:17:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
