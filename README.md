@@ -21,13 +21,13 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#63](undefined) in [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
-2. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-3. 💪 Opened PR [#62](undefined) in [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
-4. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-5. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
+1. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/patrones_dise-o](https://github.com/JoseMiguelVS/patrones_dise-o)<br>
+2. ⬆️ Pushed undefined commit(s) to [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
+3. ⬆️ Pushed undefined commit(s) to [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
+4. ⬆️ Pushed undefined commit(s) to [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
+5. 💪 Opened PR [#63](undefined) in [SISCONINT/SISCONINT](https://github.com/SISCONINT/SISCONINT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 28th, 2026, 4:17:18 AM
+Last Updated: Wednesday, October 28th, 2026, 5:55:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
