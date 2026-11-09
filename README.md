@@ -21,13 +21,13 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-2. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-3. 💪 Opened PR [#21](undefined) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-4. ⬆️ Pushed undefined commit(s) to [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
-5. ⬆️ Pushed undefined commit(s) to [JoseMiguelVS/HomePaws-game](https://github.com/JoseMiguelVS/HomePaws-game)<br>
+1. 💪 Opened PR [#28](undefined) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
+2. ✔️ Closed issue [#7](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SRLN_NEGOCIO_APP/issues/7) in [random-Kagamine-Rin-Shadow-y-un-Tilin/SRLN_NEGOCIO_APP](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/SRLN_NEGOCIO_APP)<br>
+3. ❗️ Opened issue [#27](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll/issues/27) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
+4. ❗️ Opened issue [#26](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll/issues/26) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
+5. ❗️ Opened issue [#25](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll/issues/25) in [random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll](https://github.com/random-Kagamine-Rin-Shadow-y-un-Tilin/ReservAll)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 8th, 2026, 5:39:54 PM
+Last Updated: Monday, November 9th, 2026, 4:53:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
